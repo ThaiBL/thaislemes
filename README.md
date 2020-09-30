@@ -1,2 +1,0 @@
-# thaislemes
-Resume
