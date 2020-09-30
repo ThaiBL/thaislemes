@@ -1,6 +1,8 @@
-# thaislemes
-This is my resume
+# Thais Bernardes Lemes
+#### thaisbernardeslemes3@gmail.com
+#### 425-652-7762
 
+### Objetive
 
 Seeking an entry-level technical project management or software development role with opportunity to deliver delightful, efficient, scalable, and high-quality services and experiences.
 
